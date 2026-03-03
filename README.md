@@ -1,4 +1,3 @@
-# solomonhacker.github.io[fulll website.html](https://github.com/user-attachments/files/25606667/fulll.website.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -687,7 +686,7 @@
     <header>
         <div class="container">
             <div class="header-content">
-                <div class="logo">GALAXY <span>SHARE</span></div>
+                <div class="logo">SOLOMONGALAXY <span>SHARE</span></div>
                 <nav>
                     <ul>
                         <li><a href="#about" class="active"><i class="fas fa-user"></i> About</a></li>
@@ -707,29 +706,31 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>SHARE FILES ACROSS THE GALAXY</h1>
-            <p>Transfer any file type instantly with our secure platform. No registration required. Play videos, view images, and listen to audio directly in your browser.</p>
-            <div class="hero-btns">
-                <a href="#file-sharing" class="btn btn-primary"><i class="fas fa-upload"></i> Share Files Now</a>
-                <a href="#media" class="btn btn-outline"><i class="fas fa-play"></i> View Media</a>
-            </div>
+            <h1>BUILD SCIENCE AND TECHNOLGY SHARE PROJECTS ACROSS THE GALAXY</h1>
+            <p>share your projects any file type instantly with our secure platform. No 
+			registration required. Play videos, view images, and listen to audio 
+			directly in your browser talk with other inventors</p>
+			<div class="hero-btns">
+				<br>
+				<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@solomontech" data-unique-id="solomontech" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@solomontech?refer=creator_embed">@solomontech</a>
+					<br><br> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script><script async src="https://www.tiktok.com/embed.js"></script></div>
         </div>
     </section>
 
     <!-- About Section -->
     <section id="about">
         <div class="container">
-            <h2 class="section-title">About the Creator</h2>
+            <h2 class="section-title" style="left: 0px; top: 0px; height: 0px">About the Creator</h2>
             <div class="about-content">
                 <div class="about-image">
-                    <img src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80" alt="Niwahereza Solomon">
+                    <img src="solomontechinventor_7368533691703872773-profile.jpg" alt="Niwahereza Solomon" height="761" width="758">
                 </div>
                 <div class="about-text">
-                    <h3>Niwahereza Solomon (Philippus)</h3>
+                    <h3>Niwahereza Solomon (INVENTOR)</h3>
                     <p>I'm Niwahereza Solomon, but many know me as Philippus. I'm a 17-year-old young scientist, inventor, and the founder of SLMN Galaxy Technologies. I live in Uganda, in Rukiga District, right in the heart of Mwajari Streets.</p>
-                    <p>I've always been passionate about science, technology, and building things that can help others — whether it's in physics, electronics, coding, or radio broadcasting. I go to Easy High School, and before that, I studied at Little Pool School. Even while I help in my father's small shop, my mind is always focused on creating and bringing my dreams to life.</p>
-                    <p>One of the biggest things I'm working on is building a highly intelligent robot called Sam — not just a machine, but a wise assistant and lifelong companion. I'm also planning to build Sam's robotic brother named Peter in the future. I'm the proud owner of 92.0 Transformation Radio, and I work hard every day to make my ideas a reality. I've even been building websites and apps, like my Galaxy Live Satellite Tracker.</p>
-                    <p>I never give up, even when things are hard — because I believe I was born to create, solve, and transform this world through invention.</p>
+                    <p>I've always been passionate about science, technology, and building things that can help others â€” whether it's in physics, electronics, coding, or radio broadcasting. I go to Easy High School, and before that, I studied at Little Pool School. Even while I help in my father's small shop, my mind is always focused on creating and bringing my dreams to life.</p>
+                    <p>One of the biggest things I'm working on is building a highly intelligent robot called Sam â€” not just a machine, but a wise assistant and lifelong companion. I'm also planning to build Sam's robotic brother named Peter in the future. I'm the proud owner of 92.0 Transformation Radio, and I work hard every day to make my ideas a reality. I've even been building websites and apps, like my Galaxy Live Satellite Tracker.</p>
+                    <p>I never give up, even when things are hard â€” because I believe I was born to create, solve, and transform this world through invention.</p>
                     
                     <div class="creator-info">
                         <div class="info-card">
@@ -757,7 +758,7 @@
     <!-- File Sharing Section -->
     <section id="file-sharing" class="file-sharing">
         <div class="container">
-            <h2 class="section-title">Share Files Instantly</h2>
+            <h2 class="section-title">Share projects Instantly</h2>
             <div class="upload-container">
                 <div class="upload-area" id="uploadArea">
                     <div class="upload-icon">
@@ -817,7 +818,7 @@
             <div class="media-container">
                 <div class="media-card">
                     <div class="media-thumbnail">
-                        <img src="https://images.unsplash.com/photo-1574717024453-354056aafa98?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80" alt="Tech Innovation">
+                        <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@solomontech" data-unique-id="solomontech" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@solomontech?refer=creator_embed">@solomontech</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
                         <div class="play-icon">
                             <i class="fas fa-play"></i>
                         </div>
@@ -833,7 +834,7 @@
                 
                 <div class="media-card">
                     <div class="media-thumbnail">
-                        <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" alt="Electronics">
+                        <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@solomontech" data-unique-id="solomontech" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@solomontech?refer=creator_embed">@solomontech</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
                         <div class="play-icon">
                             <i class="fas fa-play"></i>
                         </div>
